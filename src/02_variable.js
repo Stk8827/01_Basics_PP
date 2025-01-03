@@ -40,7 +40,7 @@
 
 /* Variablen vs. Konstanten in JS */
 
-// Variable
+// // Variable
 let test;  // Variable : Deklaration
 test = "hi"; // Wertzuweisung (Initialisierung)
 test = "hello"; // Überschreiben
