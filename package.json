@@ -2,7 +2,7 @@
   "name": "01_basics_pp",
   "version": "1.0.0",
   "description": "## Prozedurale Programmierung",
-  "main": "src/08_funktionen_I.js",
+  "main": "src/09_funktionen_II.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
